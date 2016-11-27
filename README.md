@@ -1,2 +1,4 @@
 # hello-world
-learnign the basics
+learning the basics of GetHub
+
+by Alex E
